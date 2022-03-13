@@ -1,0 +1,257 @@
+.head_box{
+    height: 60px;
+    background-color: black;
+}
+body{
+    margin: 0px;
+    font-family: Arial,sans-serif;
+}
+.image_style{
+    height: 40px;
+    width: 105px;
+    margin-top: 11px;
+    margin-left: 18px;
+}
+
+
+.hello{
+    color: #e1dfeb;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 12px;
+    margin-bottom:0px ;
+    padding: 0px;
+    cursor: pointer;
+
+}
+.select_address{
+    color: white;
+    margin-top: 0px;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    
+}
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    color: white;
+    margin-top: 16px;
+    margin-left: 17px;
+    cursor: pointer;
+    
+}
+.select{
+    height: 39px;
+    width: 50px;
+    margin-left: 23px;
+    margin-top: 11px;
+    border-radius: 5px;
+    background-color: #e1dfeb;
+    cursor: pointer;
+
+}
+.input-search{
+    width: 538px;
+    margin-top: 11px;
+    margin-left: -3px;
+    height: 33px;
+    
+}
+.submit_button{
+    width: 50px;
+    height: 42px;
+    margin-left: -7px;
+    border-radius: 6px;
+    background-color: #90a818;
+    cursor: pointer;
+}
+.flag{
+    width: 40px;
+    background: black;
+    color: white;
+    margin-top: 19px;
+    margin-left: 28px;
+    height: 22px;   
+    border: none;
+    cursor: pointer;
+}
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    margin-left: 32px;
+    font-size: 31px;
+    cursor: pointer;
+}
+.secound_header{
+    width: 100%;
+    height: 40px;
+    background: #241f29;
+}
+.display_menu{
+    margin-top: 9px;
+    font-size: 22px;
+    margin-left: 20px;
+
+}
+.after_menu{
+    color: white;
+    margin-top: 0px;
+    margin-left: 25px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-top: 13px;
+    cursor: pointer;
+}
+.dropdown{
+    margin-top: -10px;
+    font-size: 14px;
+    margin-left: 7px;
+
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.products{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+    margin-top: px;
+    margin-top: 250px;
+    margin-left: 21px;
+    
+
+}
+.products1{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+    margin-top: px;
+    margin-top: 250px;
+    margin-left: 353px;
+
+}
+.products2{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+    margin-top: px;
+    margin-top: 250px;
+    margin-left: 687px;
+
+}
+.products3{
+    background: white;
+    width: 307px;
+    height: 153px;
+    position: absolute;
+    margin-top: px;
+    margin-top: 250px;
+    margin-left: 1020px;
+
+}
+.products3_1{
+    background: white;
+    width: 307px;
+    height: 219px;
+    position: absolute;
+    margin-top: px;
+    margin-top: 422px;
+    margin-left: 1020px;
+
+}
+.products4{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+   
+    margin-top: 672px;
+    margin-left: 21px;
+
+}
+.products5{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+   
+    margin-top: 672px;
+    margin-left: 353px;
+
+}
+.products6{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+    
+    margin-top: 132px;
+    margin-left: 687px;
+
+}
+.products7{
+    background: white;
+    width: 307px;
+    height: 392px;
+    position: absolute;
+   
+    margin-top: 132px;
+    margin-left: 1020px;
+
+}
+.product-up{
+    font-weight: bold;
+    font-size: 21px;
+    margin-left: 9px;
+    margin-top: 6px;
+}
+.product-img{
+    width: 130px;
+    margin-left: 15px;
+    height: 101px;
+    cursor: pointer;
+    
+   
+}
+.product-down{
+    margin-left: 15px;
+    margin-top: 2px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.down{
+    margin-left: 15px;
+    font-size: 12px;
+}
+.img-last{
+    height: 219px;
+    width: 309px;
+    cursor: pointer;
+}
+.sighnin{
+    background-color: #FFD814;
+    width: 277px;
+    margin-left: 14px;
+    margin-top: 12px;
+    border-radius: 7px;
+    height: 32px;
+    cursor: pointer;
+
+}
+.com-img{
+    height: 270px;
+    width: 280px;
+    margin-left: 13px;
+    cursor: pointer;
+}
+
+
+
+
+    
