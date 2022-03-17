@@ -60,12 +60,14 @@ body{
     
 }
 .submit_button{
-    width: 50px;
+     width: 50px;
     height: 42px;
-    margin-left: -7px;
-    border-radius: 6px;
+    margin-top: 10px;
+    margin-left: -29px;
     background-color: #90a818;
     cursor: pointer;
+    position: absolute;
+    border-radius: 8px;
 }
 .flag{
     width: 40px;
