@@ -1,6 +1,7 @@
 .head_box{
     height: 60px;
     background-color: black;
+    width: 104%;
 }
 body{
     margin: 0px;
@@ -87,7 +88,7 @@ body{
     cursor: pointer;
 }
 .secound_header{
-    width: 100%;
+    width: 104%;
     height: 40px;
     background: #241f29;
 }
@@ -113,7 +114,7 @@ body{
 
 }
 .container{
-    width: 100%;
+    width: 104%;
     height: 100%;
 }
 .products{
@@ -193,7 +194,7 @@ body{
     height: 392px;
     position: absolute;
     
-    margin-top: 132px;
+    margin-top: 141px;
     margin-left: 687px;
 
 }
@@ -203,7 +204,7 @@ body{
     height: 392px;
     position: absolute;
    
-    margin-top: 132px;
+    margin-top: 141px;
     margin-left: 1020px;
 
 }
