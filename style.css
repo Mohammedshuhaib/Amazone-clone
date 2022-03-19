@@ -1,15 +1,16 @@
 .head_box{
     height: 60px;
     background-color: black;
-    width: 104%;
+ 
 }
 body{
     margin: 0px;
+    padding: 0px;
     font-family: Arial,sans-serif;
 }
 .image_style{
     height: 40px;
-    width: 105px;
+    width: 100px;
     margin-top: 11px;
     margin-left: 18px;
 }
@@ -61,7 +62,8 @@ body{
     
 }
 .submit_button{
-     width: 50px;
+    width: 50px;
+    width: 50px;
     height: 42px;
     margin-top: 10px;
     margin-left: -29px;
@@ -88,7 +90,7 @@ body{
     cursor: pointer;
 }
 .secound_header{
-    width: 104%;
+    width: 100%;
     height: 40px;
     background: #241f29;
 }
@@ -114,8 +116,8 @@ body{
 
 }
 .container{
-    width: 104%;
-    height: 100%;
+    width: 100%;
+    
 }
 .products{
     background: white;
@@ -124,7 +126,7 @@ body{
     position: absolute;
     margin-top: px;
     margin-top: 250px;
-    margin-left: 21px;
+    margin-left: 8px;
     
 
 }
@@ -135,7 +137,7 @@ body{
     position: absolute;
     margin-top: px;
     margin-top: 250px;
-    margin-left: 353px;
+    margin-left: 325px;
 
 }
 .products2{
@@ -145,7 +147,7 @@ body{
     position: absolute;
     margin-top: px;
     margin-top: 250px;
-    margin-left: 687px;
+    margin-left: 643px;
 
 }
 .products3{
@@ -155,7 +157,7 @@ body{
     position: absolute;
     margin-top: px;
     margin-top: 250px;
-    margin-left: 1020px;
+    margin-left: 961px;
 
 }
 .products3_1{
@@ -165,7 +167,7 @@ body{
     position: absolute;
     margin-top: px;
     margin-top: 422px;
-    margin-left: 1020px;
+    margin-left: 961px;
 
 }
 .products4{
@@ -175,7 +177,7 @@ body{
     position: absolute;
    
     margin-top: 672px;
-    margin-left: 21px;
+    margin-left: 8px;
 
 }
 .products5{
@@ -185,7 +187,7 @@ body{
     position: absolute;
    
     margin-top: 672px;
-    margin-left: 353px;
+    margin-left: 325px;
 
 }
 .products6{
@@ -194,8 +196,8 @@ body{
     height: 392px;
     position: absolute;
     
-    margin-top: 141px;
-    margin-left: 687px;
+    margin-top: 160px;
+    margin-left: 643px;
 
 }
 .products7{
@@ -204,8 +206,8 @@ body{
     height: 392px;
     position: absolute;
    
-    margin-top: 141px;
-    margin-left: 1020px;
+    margin-top: 160px;
+    margin-left: 961px;
 
 }
 .product-up{
@@ -254,7 +256,3 @@ body{
     cursor: pointer;
 }
 
-
-
-
-    
